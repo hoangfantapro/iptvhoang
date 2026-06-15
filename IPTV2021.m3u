@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" 01072021 https://rawtv.link
 #-------------------HTV-------------------#
 #EXTINF:-1 group-title="HTV-HTVC" tvg-logo="https://i.imgur.com/iXlpyZb.png",HTV1
 udp://@225.1.1.180:30120
