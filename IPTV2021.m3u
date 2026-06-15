@@ -310,9 +310,5 @@ udp://@225.1.2.227:30120
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://imgur.com/zlEHzzm.png",Fashion TV 4K
 udp://@225.1.2.232:30120
 #-------------------World Cup-------------------#
-EXTINF:-1 group-title="World Cup" tvg-logo="https://i.imgur.com/1IAIlz3.png",VTV3 HD
-udp://@225.1.2.247:30120
 EXTINF:-1 group-title="World Cup" tvg-logo="https://i.imgur.com/1IAIlz3.png",VTV3 HD 8M
 udp://@225.1.3.2:30120
-EXTINF:-1 group-title="World Cup" tvg-logo="https://i.imgur.com/1IAIlz3.png",VTV3 HD
-udp://@225.1.4.3:30120
